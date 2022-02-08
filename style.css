@@ -51,7 +51,7 @@
 	  .box1{
 		background-color: black;
 	  height: 0.1vh;
-	  width: 114%;
+	  width: 100vw;
 	  }
 
 	  .box2{
@@ -97,7 +97,7 @@
 		border-bottom: 1px solid black;
 				height: 0vh;
 				margin-top: 7px;
-				width: 114%;
+				width: 100vw;
 				
 			}
 
@@ -146,7 +146,7 @@
 
 	  .line{
 		height:1px;
-		width: 114%;
+		width: 100vw;
 		background-color: black;
 	}
 	

@@ -101,6 +101,13 @@
 				
 			}
 
+	.box7{
+			
+						height: 0vh;
+						margin-top: 7px;
+						width: 114%;
+	}
+
 	.title{
 		color: black;
 		margin-top: 20px;

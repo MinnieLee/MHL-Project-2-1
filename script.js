@@ -12,6 +12,16 @@ $("document").ready(function(){
 
 });
 
+$("document").ready(function(){ 
+  $(".dot").click(function(){
+    console.log("previous")
+    $(".mySlidesfirst").hide()
+  });
+
+ 
+
+
+});
 var slideIndex = 1;
 showSlides(slideIndex);
 

@@ -1,3 +1,17 @@
+$("document").ready(function(){ 
+  $(".prev").click(function(){
+    console.log("previous")
+    $(".mySlidesfirst").hide()
+  });
+
+  $(".next").click(function(){
+    console.log("previous")
+    $(".mySlidesfirst").hide()
+  });
+
+
+});
+
 var slideIndex = 1;
 showSlides(slideIndex);
 
